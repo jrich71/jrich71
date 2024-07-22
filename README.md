@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ Fun fact: I live in SF, CA although I work for Feinberg Medical School located in Chicago, IL.
+⚡ Fun fact: I live in SF, CA although I work for Northwestern University's Feinberg Medical School located in Chicago, IL.
 
 
