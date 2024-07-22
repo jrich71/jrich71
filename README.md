@@ -1,5 +1,5 @@
 
-![6695F4AE-F026-484E-B11B-11D2DA6270D4_1_105_c](https://github.com/user-attachments/assets/00fe5e1a-7a5a-413e-bd7d-6d0c05845904)
+
 
 ## Hi there 👋
 
