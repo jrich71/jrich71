@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ Fun fact: I'm an expert in health informatics and knowledge management based in SF, CA.
+⚡ Fun fact: I'm an expert in health informatics and knowledge management based in SF, CA, who's interested in leveraging AI, digital health, and open data to enable learning health systems.
 
 
